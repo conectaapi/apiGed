@@ -7,7 +7,7 @@ class HomeController
 {
     public function index()
     {
-        echo '<h1>Bem vindo</h1>';
+        echo '<h1>Bem vindo!</h1>';
     }
     public function show($id)
     {
